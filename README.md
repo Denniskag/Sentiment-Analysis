@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-This project involves predicting if given text is good, netral or bad.
+This project involves predicting if given text is good, neutral or bad.
